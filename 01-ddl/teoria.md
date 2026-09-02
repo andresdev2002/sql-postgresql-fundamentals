@@ -2,7 +2,7 @@ DDL = Data Definition Language
 
 Define la estructura de la base de la base datos: Tablas, columnas, tipo de datos y reglas de integridad. 
 
-Comandos proncipales 
+Comandos principales 
 
 CREATE	Crea una tabla, base de datos, índice, etc.
 ALTER	Modifica la estructura de algo que ya existe
